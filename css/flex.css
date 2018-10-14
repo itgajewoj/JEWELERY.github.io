@@ -1,0 +1,60 @@
+.header_button {
+	display: flex;
+}
+
+.button {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.history, .photoblog_bottom {
+	display: flex;
+	justify-content: space-between;
+}
+
+.history_caption {
+	align-self: center;
+}
+
+.work_content {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.slider-content {
+	display: flex;
+	flex-direction: column;
+}
+
+.arguments {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.argument_boxs {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.our_jewelery_content {
+	display: flex;
+	justify-content: space-between;
+}
+
+.comments_people {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.comment-box {
+	display: flex;
+	align-items: flex-start;
+}
+
+
+
